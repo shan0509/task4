@@ -1,0 +1,12 @@
+Task 4
+1.Describe the different between 
+Smoke & sanity testing?
+In smoke testing is basically known for high level testing and  we use less number of testing case in this testing. We have to move some important regression testing cases to  smoke test.
+Sanity is testing on the impact component. If there is any issue only we check the particular sit (eg) any issues in payment site means we have to test the payment site itself
+Validation & verification
+Verification is different as we compare to validation because check and build the right product
+Validation is almost same as per the customer expectation or not. check the product right.
+2. Explain about agile methodology?
+In AGILE methodology we have requirement, analysis, design, implementation, testing, maintenance. In AGILE method take only a short period of time only within 2 or 3 months. If there is any issue in the methodology  we don’t want to check the entire just check the particular data that is enough.
+3.Explain about Epic and User story?
+ An epic is a large body of work that can be broken down into a number of smaller stories, or sometimes called “Issues” in Jira. Epics often encompass multiple teams on multiple projects, the user story is the smallest unit of frame work
